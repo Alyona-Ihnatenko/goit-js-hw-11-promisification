@@ -1,12 +1,6 @@
 const delay = ms => {
-    // Твой код
-    setTimeout(() => {
-        // Если все ок, то вызывается resolve и передаем данные
-        resolve('Data passed into resolve function :)');
-    
-        // Если что-то не так, вызваем reject и передаем ошибку
-        // reject("Error passed into reject function :(")
-      }, '${time}');
+  3000
+   
     };
   
   
