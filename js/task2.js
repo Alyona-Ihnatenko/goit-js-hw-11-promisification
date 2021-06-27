@@ -12,7 +12,6 @@ const users = [
         resolved(updatedUsers);
     });
 };
-  
   const logger = updatedUsers => console.table(updatedUsers);
   
   /*
